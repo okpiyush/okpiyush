@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/theeeephoenix" target="blank"><img src="https://img.shields.io/twitter/follow/theeeephoenix?logo=twitter&style=for-the-badge" alt="theeeephoenix" /></a> </p>
 
-- 🔭 I’m currently working on **Suvidha**
+- 🔭 I’m currently working on **Suvidha**.
+
+- 👾 I'm currently on the learning curve of my Software Developement Journey.
+
+- 🐘 My Skills are HTML, CSS, JavaScript, Python, CPP and QT.
 
 - 📝 I regularly write articles on [www.piyushkumar.home.blog](www.piyushkumar.home.blog)
 
