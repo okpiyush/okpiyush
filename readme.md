@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A student who has spent most of his life trying to look into Computers and it's Codes</h3>
-<img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" align="left" height="300px" width="300px">
+<img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" align="left" height="200px" width="200px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okpiyush&label=Profile%20views&color=0e75b6&style=flat" alt="okpiyush" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okpiyush" alt="okpiyush" /></a> </p>
