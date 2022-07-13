@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okpiyush&label=Profile%20views&color=0e75b6&style=flat" alt="okpiyush" /> </p>
 
-<p align="right"><img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" align="left" height="200px" width="200px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okpiyush" alt="okpiyush" /></a> </p>
+<p align="right"><img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" align="left" height="200px" width="200px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okpiyush" alt="okpiyush" width="50px" height="50px"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/theeeephoenix" target="blank"><img src="https://img.shields.io/twitter/follow/theeeephoenix?logo=twitter&style=for-the-badge" alt="theeeephoenix" /></a> </p>
 
