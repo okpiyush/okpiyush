@@ -13,9 +13,9 @@
 
 - 🐘 My Skills are HTML, CSS, JavaScript, Python, CPP and QT.
 
-- 📝 I regularly write articles on [www.piyushkumar.home.blog](www.piyushkumar.home.blog)
+- 📝 I regularly write articles on [www.piyushkumar.home.blog](www.piyushkumar.home.blog) 
 
-- 📫 How to reach me **piyush17400@gmail.com**
+- 📫 You can contact me on <a href="https://linkedin.com/in/1piyushkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1piyushkumar" padding="0" height="15" width="20" /></a> and **piyush17400@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
