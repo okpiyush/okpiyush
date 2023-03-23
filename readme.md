@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/theeeephoenix" target="blank"><img src="https://img.shields.io/twitter/follow/theeeephoenix?logo=twitter&style=for-the-badge" alt="theeeephoenix" /></a> </p>
 
-- 🔭 I’m currently working on **Suvidha**.
+- 🔭 I’m currently working on **Suvidha : An E-commerce App**.
 
 - 👾 I'm currently on the learning curve of my Software Developement Journey.
 
