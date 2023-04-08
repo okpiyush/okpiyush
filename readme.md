@@ -11,7 +11,7 @@
 
 - 👾 I'm currently on the learning curve of my Software Developement Journey.
 
-- 🐘 My Skills are HTML, CSS, JavaScript, Python, CPP and QT.
+- 🐘 My Skills are HTML, CSS, JavaScript, Java and QT lib.
 
 - 📝I am regularly updating and working on Javascript Repository[ My Javascript Documentation](www.github.com/okpiyush/MyJSDocs)
 
