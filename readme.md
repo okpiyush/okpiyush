@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Suvidha : A Business Mangement Solution**.
 
-- 👾 I'm currently on the learning curve of my Software Developement Journey.
+- 👾 I'm currently on the learning curve of my Software Development Journey.
 
-- 🐘 My Skills are HTML, CSS, JavaScript, Java and QT lib.
-
-- 📝I am regularly updating and working on Javascript Repository[ My Javascript Documentation](www.github.com/okpiyush/MyJSDocs)
+- 🐘 My Skills are HTML, CSS, JavaScript, Java, ReactJS, ExpressJS, NodeJS, and MongoDB.
 
 - 📫 You can contact me on <a href="https://linkedin.com/in/1piyushkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1piyushkumar" padding="0" height="15" width="20" /></a> and **piyush17400@gmail.com**
 
