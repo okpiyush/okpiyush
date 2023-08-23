@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Suvidha: A Business Management Solution.<br><br>👾 I'm currently on the learning curve of my Software Development Journey.<br><br>🐘 My Skills are HTML, CSS, JavaScript, Java, ReactJS, ExpressJS, NodeJS, and MongoDB.<br><br>📫 You can contact me at piyush17400@gmail.com <br><br>🧑‍💻 My coding profile:  <a href="https://leetcode.com/okpiyush/" target="_blank">Leetcode</a>  
+🔭 I’m currently working on Suvidha: A Business Management Solution.<br><br>👾 I'm currently on the learning curve of my Software Development Journey.<br><br>🐘 My Skills are HTML, CSS, JavaScript, Java, ReactJS, ExpressJS, NodeJS, and MongoDB.<br><br>📫 You can contact me at piyushkumar2738@gmail.com <br><br>🧑‍💻 My coding profile:  <a href="https://leetcode.com/okpiyush/" target="_blank">Leetcode</a>  
 
 
 ## 🌐 Socials:
