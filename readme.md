@@ -23,20 +23,71 @@ HOW TO UPDATE THIS SECTION EACH WEEK:
 4. Commit with message like: "week 4: linux fundamentals done"
 -->
 
-### Progress grid
-`✅ done` · `🟡 in progress` · `🔲 not started`
+# 🚀 52-Week AI Systems Roadmap — Progress Tracker
 
-**Phase 01 — Software + Computer Systems (Weeks 1–13)**
-🟡 W1 🔲 W2 🔲 W3 🔲 W4 🔲 W5 🔲 W6 🔲 W7 🔲 W8 🔲 W9 🔲 W10 🔲 W11 🔲 W12 🔲 W13
+**Legend:** ✅ Done · 🟡 In Progress · 🔲 Not Started · ⏸️ Paused
 
-**Phase 02 — Distributed Systems + Cloud (Weeks 14–26)**
-🔲 W14 🔲 W15 🔲 W16 🔲 W17 🔲 W18 🔲 W19 🔲 W20 🔲 W21 🔲 W22 🔲 W23 🔲 W24 🔲 W25 🔲 W26
+---
 
-**Phase 03 — ML Systems + Model Serving (Weeks 27–39)**
-🔲 W27 🔲 W28 🔲 W29 🔲 W30 🔲 W31 🔲 W32 🔲 W33 🔲 W34 🔲 W35 🔲 W36 🔲 W37 🔲 W38 🔲 W39
+## Phase 01 — Software + Computer Systems
+**Weeks 01–13**
 
-**Phase 04 — GPU + AI Infrastructure (Weeks 40–52)**
-🔲 W40 🔲 W41 🔲 W42 🔲 W43 🔲 W44 🔲 W45 🔲 W46 🔲 W47 🔲 W48 🔲 W49 🔲 W50 🔲 W51 🔲 W52
+| W01 | W02 | W03 | W04 | W05 | W06 | W07 | W08 | W09 | W10 | W11 | W12 | W13 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🟡 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 |
+
+**Progress:** 1 / 13 weeks · **8%**
+
+---
+
+## Phase 02 — Distributed Systems + Cloud
+**Weeks 14–26**
+
+| W14 | W15 | W16 | W17 | W18 | W19 | W20 | W21 | W22 | W23 | W24 | W25 | W26 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 |
+
+**Progress:** 0 / 13 weeks · **0%**
+
+---
+
+## Phase 03 — ML Systems + Model Serving
+**Weeks 27–39**
+
+| W27 | W28 | W29 | W30 | W31 | W32 | W33 | W34 | W35 | W36 | W37 | W38 | W39 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 |
+
+**Progress:** 0 / 13 weeks · **0%**
+
+---
+
+## Phase 04 — GPU + AI Infrastructure
+**Weeks 40–52**
+
+| W40 | W41 | W42 | W43 | W44 | W45 | W46 | W47 | W48 | W49 | W50 | W51 | W52 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 | 🔲 |
+
+**Progress:** 0 / 13 weeks · **0%**
+
+---
+
+# 📊 Overall Progress
+
+| Phase | Weeks | Done | Progress |
+|---|:---:|:---:|:---:|
+| Phase 01 — Software + Computer Systems | 01–13 | 1 / 13 | 🟡 8% |
+| Phase 02 — Distributed Systems + Cloud | 14–26 | 0 / 13 | 🔲 0% |
+| Phase 03 — ML Systems + Model Serving | 27–39 | 0 / 13 | 🔲 0% |
+| Phase 04 — GPU + AI Infrastructure | 40–52 | 0 / 13 | 🔲 0% |
+| **TOTAL** | **01–52** | **1 / 52** | **🟡 2%** |
+
+### Timeline
+
+`W01` 🟡 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `W52`
+
+**1 / 52 weeks complete · 2% overall**
 
 ### 📌 This week — Week 1: Baseline + Python systems mindset
 - [ ] DSA: 5–6 array/string problems, complexity notes written
