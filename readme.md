@@ -10,10 +10,10 @@
 
 ## 🚧 52-Week Roadmap — Live Progress
 
-**Current phase:** Phase 01 — Software + Computer Systems
-**Current week:** Week 1 of 52 — *Baseline + Python systems mindset*
-**Started:** <!-- START_DATE -->YYYY-MM-DD<!-- END_START_DATE -->
-**Last updated:** <!-- LAST_UPDATE -->YYYY-MM-DD<!-- END_LAST_UPDATE -->
+**Current phase:** Phase 01 — Software + Computer Systems <br>
+**Current week:** Week 1 of 52 — *Baseline + Python systems mindset*<br>
+**Started:** <!-- START_DATE -->2026-09-09<!-- END_START_DATE --><br>
+**Last updated:** <!-- LAST_UPDATE -->2026-09-09<!-- END_LAST_UPDATE -->
 
 <!--
 HOW TO UPDATE THIS SECTION EACH WEEK:
